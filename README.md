@@ -19,3 +19,6 @@ This blog post is about the thought process behind scaling a web application fro
 ## Focus
 
 I would love to work on a real project for a real client, and be involved in as much of the full project lifecycle as possible. If I could build anything, it would be an application that could support 100s or 1000s of users, something with a lot of interactivity on the front-end that is supported by a database of some kind. My favourite area to work on is back-end/server side development, but I like the front-end too! The best part is seeing all of the pieces of a project come together to make something cool.
+
+
+Code Challenge link: https://codesandbox.io/s/2020-internship-exercise-menu-rld0u
